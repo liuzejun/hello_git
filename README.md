@@ -1,4 +1,4 @@
 # hello_git
 welcome to git
 
-test commit
+change commit author to liuzejun.
